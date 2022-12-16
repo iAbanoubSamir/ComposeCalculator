@@ -1,4 +1,4 @@
-package com.compose.calculator
+package com.compose.calculator.ui.view
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
